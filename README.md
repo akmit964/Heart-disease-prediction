@@ -16,3 +16,8 @@
 ### :hammer_and_wrench: Requirements
 * Microsoft Power BI
 * Microsoft Excel
+
+## :gear: Setup
+- Install Microsoft Power Bi :-
+- Download link -https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/
+
