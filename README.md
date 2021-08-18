@@ -10,3 +10,9 @@
 ## Dataset
 - Download the dataset for heart disease
 - https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL?usp=sharing
+
+## :desktop_computer:	Installation
+
+### :hammer_and_wrench: Requirements
+* Microsoft Power BI
+* Microsoft Excel
